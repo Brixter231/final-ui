@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://final-api-pwl2.onrender.com/bondoc/posts';
+const API_URL = 'https://final-api-g7mq.onrender.com/bondoc/posts';
 
 // Fetch all posts
 export const fetchPosts = async () => {
